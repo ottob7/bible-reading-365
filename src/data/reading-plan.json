@@ -1,0 +1,6949 @@
+[
+  {
+    "day": 1,
+    "date": "2026-04-01",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 1
+      },
+      {
+        "book": "Genesis",
+        "chapter": 2
+      },
+      {
+        "book": "Genesis",
+        "chapter": 3
+      },
+      {
+        "book": "Genesis",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "date": "2026-04-02",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 5
+      },
+      {
+        "book": "Genesis",
+        "chapter": 6
+      },
+      {
+        "book": "Genesis",
+        "chapter": 7
+      },
+      {
+        "book": "Genesis",
+        "chapter": 8
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "date": "2026-04-03",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 9
+      },
+      {
+        "book": "Genesis",
+        "chapter": 10
+      },
+      {
+        "book": "Genesis",
+        "chapter": 11
+      },
+      {
+        "book": "Genesis",
+        "chapter": 12
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "date": "2026-04-04",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 13
+      },
+      {
+        "book": "Genesis",
+        "chapter": 14
+      },
+      {
+        "book": "Genesis",
+        "chapter": 15
+      },
+      {
+        "book": "Genesis",
+        "chapter": 16
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "date": "2026-04-06",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 17
+      },
+      {
+        "book": "Genesis",
+        "chapter": 18
+      },
+      {
+        "book": "Genesis",
+        "chapter": 19
+      },
+      {
+        "book": "Genesis",
+        "chapter": 20
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "date": "2026-04-07",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 21
+      },
+      {
+        "book": "Genesis",
+        "chapter": 22
+      },
+      {
+        "book": "Genesis",
+        "chapter": 23
+      },
+      {
+        "book": "Genesis",
+        "chapter": 24
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "date": "2026-04-08",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 25
+      },
+      {
+        "book": "Genesis",
+        "chapter": 26
+      },
+      {
+        "book": "Genesis",
+        "chapter": 27
+      },
+      {
+        "book": "Genesis",
+        "chapter": 28
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "date": "2026-04-09",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 29
+      },
+      {
+        "book": "Genesis",
+        "chapter": 30
+      },
+      {
+        "book": "Genesis",
+        "chapter": 31
+      },
+      {
+        "book": "Genesis",
+        "chapter": 32
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "date": "2026-04-10",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 33
+      },
+      {
+        "book": "Genesis",
+        "chapter": 34
+      },
+      {
+        "book": "Genesis",
+        "chapter": 35
+      },
+      {
+        "book": "Genesis",
+        "chapter": 36
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "date": "2026-04-11",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 37
+      },
+      {
+        "book": "Genesis",
+        "chapter": 38
+      },
+      {
+        "book": "Genesis",
+        "chapter": 39
+      },
+      {
+        "book": "Genesis",
+        "chapter": 40
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "date": "2026-04-13",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 41
+      },
+      {
+        "book": "Genesis",
+        "chapter": 42
+      },
+      {
+        "book": "Genesis",
+        "chapter": 43
+      },
+      {
+        "book": "Genesis",
+        "chapter": 44
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "date": "2026-04-14",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 45
+      },
+      {
+        "book": "Genesis",
+        "chapter": 46
+      },
+      {
+        "book": "Genesis",
+        "chapter": 47
+      },
+      {
+        "book": "Genesis",
+        "chapter": 48
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "date": "2026-04-15",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Genesis",
+        "chapter": 49
+      },
+      {
+        "book": "Genesis",
+        "chapter": 50
+      },
+      {
+        "book": "Exodus",
+        "chapter": 1
+      },
+      {
+        "book": "Exodus",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "date": "2026-04-16",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 3
+      },
+      {
+        "book": "Exodus",
+        "chapter": 4
+      },
+      {
+        "book": "Exodus",
+        "chapter": 5
+      },
+      {
+        "book": "Exodus",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "date": "2026-04-17",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 7
+      },
+      {
+        "book": "Exodus",
+        "chapter": 8
+      },
+      {
+        "book": "Exodus",
+        "chapter": 9
+      },
+      {
+        "book": "Exodus",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "date": "2026-04-18",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 11
+      },
+      {
+        "book": "Exodus",
+        "chapter": 12
+      },
+      {
+        "book": "Exodus",
+        "chapter": 13
+      },
+      {
+        "book": "Exodus",
+        "chapter": 14
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "date": "2026-04-20",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 15
+      },
+      {
+        "book": "Exodus",
+        "chapter": 16
+      },
+      {
+        "book": "Exodus",
+        "chapter": 17
+      },
+      {
+        "book": "Exodus",
+        "chapter": 18
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "date": "2026-04-21",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 19
+      },
+      {
+        "book": "Exodus",
+        "chapter": 20
+      },
+      {
+        "book": "Exodus",
+        "chapter": 21
+      },
+      {
+        "book": "Exodus",
+        "chapter": 22
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "date": "2026-04-22",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 23
+      },
+      {
+        "book": "Exodus",
+        "chapter": 24
+      },
+      {
+        "book": "Exodus",
+        "chapter": 25
+      },
+      {
+        "book": "Exodus",
+        "chapter": 26
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "date": "2026-04-23",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 27
+      },
+      {
+        "book": "Exodus",
+        "chapter": 28
+      },
+      {
+        "book": "Exodus",
+        "chapter": 29
+      },
+      {
+        "book": "Exodus",
+        "chapter": 30
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "date": "2026-04-24",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 31
+      },
+      {
+        "book": "Exodus",
+        "chapter": 32
+      },
+      {
+        "book": "Exodus",
+        "chapter": 33
+      },
+      {
+        "book": "Exodus",
+        "chapter": 34
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "date": "2026-04-25",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 35
+      },
+      {
+        "book": "Exodus",
+        "chapter": 36
+      },
+      {
+        "book": "Exodus",
+        "chapter": 37
+      },
+      {
+        "book": "Exodus",
+        "chapter": 38
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "date": "2026-04-27",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Exodus",
+        "chapter": 39
+      },
+      {
+        "book": "Exodus",
+        "chapter": 40
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 1
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "date": "2026-04-28",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Leviticus",
+        "chapter": 3
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 4
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 5
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "date": "2026-04-29",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Leviticus",
+        "chapter": 7
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 8
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 9
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "date": "2026-04-30",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Leviticus",
+        "chapter": 11
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 12
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 13
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 14
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "date": "2026-05-01",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Leviticus",
+        "chapter": 15
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 16
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 17
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 18
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "date": "2026-05-02",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Leviticus",
+        "chapter": 19
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 20
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 21
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 22
+      }
+    ]
+  },
+  {
+    "day": 29,
+    "date": "2026-05-04",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Leviticus",
+        "chapter": 23
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 24
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 25
+      },
+      {
+        "book": "Leviticus",
+        "chapter": 26
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "date": "2026-05-05",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Leviticus",
+        "chapter": 27
+      },
+      {
+        "book": "Numbers",
+        "chapter": 1
+      },
+      {
+        "book": "Numbers",
+        "chapter": 2
+      },
+      {
+        "book": "Numbers",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 31,
+    "date": "2026-05-06",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Numbers",
+        "chapter": 4
+      },
+      {
+        "book": "Numbers",
+        "chapter": 5
+      },
+      {
+        "book": "Numbers",
+        "chapter": 6
+      },
+      {
+        "book": "Numbers",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "date": "2026-05-07",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Numbers",
+        "chapter": 8
+      },
+      {
+        "book": "Numbers",
+        "chapter": 9
+      },
+      {
+        "book": "Numbers",
+        "chapter": 10
+      },
+      {
+        "book": "Numbers",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "date": "2026-05-08",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Numbers",
+        "chapter": 12
+      },
+      {
+        "book": "Numbers",
+        "chapter": 13
+      },
+      {
+        "book": "Numbers",
+        "chapter": 14
+      },
+      {
+        "book": "Numbers",
+        "chapter": 15
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "date": "2026-05-09",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Numbers",
+        "chapter": 16
+      },
+      {
+        "book": "Numbers",
+        "chapter": 17
+      },
+      {
+        "book": "Numbers",
+        "chapter": 18
+      },
+      {
+        "book": "Numbers",
+        "chapter": 19
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "date": "2026-05-11",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Numbers",
+        "chapter": 20
+      },
+      {
+        "book": "Numbers",
+        "chapter": 21
+      },
+      {
+        "book": "Numbers",
+        "chapter": 22
+      },
+      {
+        "book": "Numbers",
+        "chapter": 23
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "date": "2026-05-12",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Numbers",
+        "chapter": 24
+      },
+      {
+        "book": "Numbers",
+        "chapter": 25
+      },
+      {
+        "book": "Numbers",
+        "chapter": 26
+      },
+      {
+        "book": "Numbers",
+        "chapter": 27
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "date": "2026-05-13",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Numbers",
+        "chapter": 28
+      },
+      {
+        "book": "Numbers",
+        "chapter": 29
+      },
+      {
+        "book": "Numbers",
+        "chapter": 30
+      },
+      {
+        "book": "Numbers",
+        "chapter": 31
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "date": "2026-05-14",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Numbers",
+        "chapter": 32
+      },
+      {
+        "book": "Numbers",
+        "chapter": 33
+      },
+      {
+        "book": "Numbers",
+        "chapter": 34
+      },
+      {
+        "book": "Numbers",
+        "chapter": 35
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "date": "2026-05-15",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Numbers",
+        "chapter": 36
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 1
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 2
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "date": "2026-05-16",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Deuteronomy",
+        "chapter": 4
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 5
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 6
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "date": "2026-05-18",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Deuteronomy",
+        "chapter": 8
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 9
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 10
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "date": "2026-05-19",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Deuteronomy",
+        "chapter": 12
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 13
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 14
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 15
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "date": "2026-05-20",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Deuteronomy",
+        "chapter": 16
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 17
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 18
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 19
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "date": "2026-05-21",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Deuteronomy",
+        "chapter": 20
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 21
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 22
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 23
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "date": "2026-05-22",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Deuteronomy",
+        "chapter": 24
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 25
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 26
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 27
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "date": "2026-05-23",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Deuteronomy",
+        "chapter": 28
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 29
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 30
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 31
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "date": "2026-05-25",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Deuteronomy",
+        "chapter": 32
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 33
+      },
+      {
+        "book": "Deuteronomy",
+        "chapter": 34
+      },
+      {
+        "book": "Joshua",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "date": "2026-05-26",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Joshua",
+        "chapter": 2
+      },
+      {
+        "book": "Joshua",
+        "chapter": 3
+      },
+      {
+        "book": "Joshua",
+        "chapter": 4
+      },
+      {
+        "book": "Joshua",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "date": "2026-05-27",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Joshua",
+        "chapter": 6
+      },
+      {
+        "book": "Joshua",
+        "chapter": 7
+      },
+      {
+        "book": "Joshua",
+        "chapter": 8
+      },
+      {
+        "book": "Joshua",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "date": "2026-05-28",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Joshua",
+        "chapter": 10
+      },
+      {
+        "book": "Joshua",
+        "chapter": 11
+      },
+      {
+        "book": "Joshua",
+        "chapter": 12
+      },
+      {
+        "book": "Joshua",
+        "chapter": 13
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "date": "2026-05-29",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Joshua",
+        "chapter": 14
+      },
+      {
+        "book": "Joshua",
+        "chapter": 15
+      },
+      {
+        "book": "Joshua",
+        "chapter": 16
+      },
+      {
+        "book": "Joshua",
+        "chapter": 17
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "date": "2026-05-30",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Joshua",
+        "chapter": 18
+      },
+      {
+        "book": "Joshua",
+        "chapter": 19
+      },
+      {
+        "book": "Joshua",
+        "chapter": 20
+      },
+      {
+        "book": "Joshua",
+        "chapter": 21
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "date": "2026-06-01",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Joshua",
+        "chapter": 22
+      },
+      {
+        "book": "Joshua",
+        "chapter": 23
+      },
+      {
+        "book": "Joshua",
+        "chapter": 24
+      },
+      {
+        "book": "Judges",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "date": "2026-06-02",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Judges",
+        "chapter": 2
+      },
+      {
+        "book": "Judges",
+        "chapter": 3
+      },
+      {
+        "book": "Judges",
+        "chapter": 4
+      },
+      {
+        "book": "Judges",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "date": "2026-06-03",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Judges",
+        "chapter": 6
+      },
+      {
+        "book": "Judges",
+        "chapter": 7
+      },
+      {
+        "book": "Judges",
+        "chapter": 8
+      },
+      {
+        "book": "Judges",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "date": "2026-06-04",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Judges",
+        "chapter": 10
+      },
+      {
+        "book": "Judges",
+        "chapter": 11
+      },
+      {
+        "book": "Judges",
+        "chapter": 12
+      },
+      {
+        "book": "Judges",
+        "chapter": 13
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "date": "2026-06-05",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Judges",
+        "chapter": 14
+      },
+      {
+        "book": "Judges",
+        "chapter": 15
+      },
+      {
+        "book": "Judges",
+        "chapter": 16
+      },
+      {
+        "book": "Judges",
+        "chapter": 17
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "date": "2026-06-06",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Judges",
+        "chapter": 18
+      },
+      {
+        "book": "Judges",
+        "chapter": 19
+      },
+      {
+        "book": "Judges",
+        "chapter": 20
+      },
+      {
+        "book": "Judges",
+        "chapter": 21
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "date": "2026-06-08",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Ruth",
+        "chapter": 1
+      },
+      {
+        "book": "Ruth",
+        "chapter": 2
+      },
+      {
+        "book": "Ruth",
+        "chapter": 3
+      },
+      {
+        "book": "Ruth",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "date": "2026-06-09",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "1 Samuel",
+        "chapter": 1
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 2
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 3
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 61,
+    "date": "2026-06-10",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "1 Samuel",
+        "chapter": 5
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 6
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 7
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 8
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "date": "2026-06-11",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "1 Samuel",
+        "chapter": 9
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 10
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 11
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 12
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "date": "2026-06-12",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "1 Samuel",
+        "chapter": 13
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 14
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 15
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 16
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "date": "2026-06-13",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "1 Samuel",
+        "chapter": 17
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 18
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 19
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 20
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "date": "2026-06-15",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "1 Samuel",
+        "chapter": 21
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 22
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 23
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 24
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "date": "2026-06-16",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "1 Samuel",
+        "chapter": 25
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 26
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 27
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 28
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "date": "2026-06-17",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "1 Samuel",
+        "chapter": 29
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 30
+      },
+      {
+        "book": "1 Samuel",
+        "chapter": 31
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "date": "2026-06-18",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "2 Samuel",
+        "chapter": 2
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 3
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 4
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "date": "2026-06-19",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "2 Samuel",
+        "chapter": 6
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 7
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 8
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "date": "2026-06-20",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "2 Samuel",
+        "chapter": 10
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 11
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 12
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 13
+      }
+    ]
+  },
+  {
+    "day": 71,
+    "date": "2026-06-22",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "2 Samuel",
+        "chapter": 14
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 15
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 16
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 17
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "date": "2026-06-23",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "2 Samuel",
+        "chapter": 18
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 19
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 20
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 21
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "date": "2026-06-24",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "2 Samuel",
+        "chapter": 22
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 23
+      },
+      {
+        "book": "2 Samuel",
+        "chapter": 24
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "date": "2026-06-25",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "1 Kings",
+        "chapter": 2
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 3
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 4
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "date": "2026-06-26",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "1 Kings",
+        "chapter": 6
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 7
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 8
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "date": "2026-06-27",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "1 Kings",
+        "chapter": 10
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 11
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 12
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 13
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "date": "2026-06-29",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "1 Kings",
+        "chapter": 14
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 15
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 16
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 17
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "date": "2026-06-30",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "1 Kings",
+        "chapter": 18
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 19
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 20
+      },
+      {
+        "book": "1 Kings",
+        "chapter": 21
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "date": "2026-07-01",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "1 Kings",
+        "chapter": 22
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 1
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 2
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "date": "2026-07-02",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "2 Kings",
+        "chapter": 4
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 5
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 6
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 81,
+    "date": "2026-07-03",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "2 Kings",
+        "chapter": 8
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 9
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 10
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "date": "2026-07-04",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "2 Kings",
+        "chapter": 12
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 13
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 14
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 15
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "date": "2026-07-06",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "2 Kings",
+        "chapter": 16
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 17
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 18
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 19
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "date": "2026-07-07",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "2 Kings",
+        "chapter": 20
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 21
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 22
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 23
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "date": "2026-07-08",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "2 Kings",
+        "chapter": 24
+      },
+      {
+        "book": "2 Kings",
+        "chapter": 25
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 1
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "date": "2026-07-09",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "1 Chronicles",
+        "chapter": 3
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 4
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 5
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "date": "2026-07-10",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "1 Chronicles",
+        "chapter": 7
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 8
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 9
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "date": "2026-07-11",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "1 Chronicles",
+        "chapter": 11
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 12
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 13
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 14
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "date": "2026-07-13",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "1 Chronicles",
+        "chapter": 15
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 16
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 17
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 18
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "date": "2026-07-14",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "1 Chronicles",
+        "chapter": 19
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 20
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 21
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 22
+      }
+    ]
+  },
+  {
+    "day": 91,
+    "date": "2026-07-15",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "1 Chronicles",
+        "chapter": 23
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 24
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 25
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 26
+      }
+    ]
+  },
+  {
+    "day": 92,
+    "date": "2026-07-16",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "1 Chronicles",
+        "chapter": 27
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 28
+      },
+      {
+        "book": "1 Chronicles",
+        "chapter": 29
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "date": "2026-07-17",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "2 Chronicles",
+        "chapter": 2
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 3
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 4
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "date": "2026-07-18",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "2 Chronicles",
+        "chapter": 6
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 7
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 8
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "date": "2026-07-20",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "2 Chronicles",
+        "chapter": 10
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 11
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 12
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 13
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "date": "2026-07-21",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "2 Chronicles",
+        "chapter": 14
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 15
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 16
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 17
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "date": "2026-07-22",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "2 Chronicles",
+        "chapter": 18
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 19
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 20
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 21
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "date": "2026-07-23",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "2 Chronicles",
+        "chapter": 22
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 23
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 24
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 25
+      }
+    ]
+  },
+  {
+    "day": 99,
+    "date": "2026-07-24",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "2 Chronicles",
+        "chapter": 26
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 27
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 28
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 29
+      }
+    ]
+  },
+  {
+    "day": 100,
+    "date": "2026-07-25",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "2 Chronicles",
+        "chapter": 30
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 31
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 32
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 33
+      }
+    ]
+  },
+  {
+    "day": 101,
+    "date": "2026-07-27",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "2 Chronicles",
+        "chapter": 34
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 35
+      },
+      {
+        "book": "2 Chronicles",
+        "chapter": 36
+      },
+      {
+        "book": "Ezra",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 102,
+    "date": "2026-07-28",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Ezra",
+        "chapter": 2
+      },
+      {
+        "book": "Ezra",
+        "chapter": 3
+      },
+      {
+        "book": "Ezra",
+        "chapter": 4
+      },
+      {
+        "book": "Ezra",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 103,
+    "date": "2026-07-29",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Ezra",
+        "chapter": 6
+      },
+      {
+        "book": "Ezra",
+        "chapter": 7
+      },
+      {
+        "book": "Ezra",
+        "chapter": 8
+      },
+      {
+        "book": "Ezra",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 104,
+    "date": "2026-07-30",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Ezra",
+        "chapter": 10
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 1
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 2
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 105,
+    "date": "2026-07-31",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Nehemiah",
+        "chapter": 4
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 5
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 6
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 106,
+    "date": "2026-08-01",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Nehemiah",
+        "chapter": 8
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 9
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 10
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 107,
+    "date": "2026-08-03",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Nehemiah",
+        "chapter": 12
+      },
+      {
+        "book": "Nehemiah",
+        "chapter": 13
+      },
+      {
+        "book": "Esther",
+        "chapter": 1
+      },
+      {
+        "book": "Esther",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 108,
+    "date": "2026-08-04",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Esther",
+        "chapter": 3
+      },
+      {
+        "book": "Esther",
+        "chapter": 4
+      },
+      {
+        "book": "Esther",
+        "chapter": 5
+      },
+      {
+        "book": "Esther",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 109,
+    "date": "2026-08-05",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Esther",
+        "chapter": 7
+      },
+      {
+        "book": "Esther",
+        "chapter": 8
+      },
+      {
+        "book": "Esther",
+        "chapter": 9
+      },
+      {
+        "book": "Esther",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 110,
+    "date": "2026-08-06",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 1
+      },
+      {
+        "book": "Job",
+        "chapter": 2
+      },
+      {
+        "book": "Job",
+        "chapter": 3
+      },
+      {
+        "book": "Job",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 111,
+    "date": "2026-08-07",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 5
+      },
+      {
+        "book": "Job",
+        "chapter": 6
+      },
+      {
+        "book": "Job",
+        "chapter": 7
+      },
+      {
+        "book": "Job",
+        "chapter": 8
+      }
+    ]
+  },
+  {
+    "day": 112,
+    "date": "2026-08-08",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 9
+      },
+      {
+        "book": "Job",
+        "chapter": 10
+      },
+      {
+        "book": "Job",
+        "chapter": 11
+      },
+      {
+        "book": "Job",
+        "chapter": 12
+      }
+    ]
+  },
+  {
+    "day": 113,
+    "date": "2026-08-10",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 13
+      },
+      {
+        "book": "Job",
+        "chapter": 14
+      },
+      {
+        "book": "Job",
+        "chapter": 15
+      },
+      {
+        "book": "Job",
+        "chapter": 16
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "date": "2026-08-11",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 17
+      },
+      {
+        "book": "Job",
+        "chapter": 18
+      },
+      {
+        "book": "Job",
+        "chapter": 19
+      },
+      {
+        "book": "Job",
+        "chapter": 20
+      }
+    ]
+  },
+  {
+    "day": 115,
+    "date": "2026-08-12",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 21
+      },
+      {
+        "book": "Job",
+        "chapter": 22
+      },
+      {
+        "book": "Job",
+        "chapter": 23
+      },
+      {
+        "book": "Job",
+        "chapter": 24
+      }
+    ]
+  },
+  {
+    "day": 116,
+    "date": "2026-08-13",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 25
+      },
+      {
+        "book": "Job",
+        "chapter": 26
+      },
+      {
+        "book": "Job",
+        "chapter": 27
+      },
+      {
+        "book": "Job",
+        "chapter": 28
+      }
+    ]
+  },
+  {
+    "day": 117,
+    "date": "2026-08-14",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 29
+      },
+      {
+        "book": "Job",
+        "chapter": 30
+      },
+      {
+        "book": "Job",
+        "chapter": 31
+      },
+      {
+        "book": "Job",
+        "chapter": 32
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "date": "2026-08-15",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 33
+      },
+      {
+        "book": "Job",
+        "chapter": 34
+      },
+      {
+        "book": "Job",
+        "chapter": 35
+      },
+      {
+        "book": "Job",
+        "chapter": 36
+      }
+    ]
+  },
+  {
+    "day": 119,
+    "date": "2026-08-17",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 37
+      },
+      {
+        "book": "Job",
+        "chapter": 38
+      },
+      {
+        "book": "Job",
+        "chapter": 39
+      },
+      {
+        "book": "Job",
+        "chapter": 40
+      }
+    ]
+  },
+  {
+    "day": 120,
+    "date": "2026-08-18",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Job",
+        "chapter": 41
+      },
+      {
+        "book": "Job",
+        "chapter": 42
+      },
+      {
+        "book": "Psalms",
+        "chapter": 1
+      },
+      {
+        "book": "Psalms",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 121,
+    "date": "2026-08-19",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 3
+      },
+      {
+        "book": "Psalms",
+        "chapter": 4
+      },
+      {
+        "book": "Psalms",
+        "chapter": 5
+      },
+      {
+        "book": "Psalms",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "date": "2026-08-20",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 7
+      },
+      {
+        "book": "Psalms",
+        "chapter": 8
+      },
+      {
+        "book": "Psalms",
+        "chapter": 9
+      },
+      {
+        "book": "Psalms",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "date": "2026-08-21",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 11
+      },
+      {
+        "book": "Psalms",
+        "chapter": 12
+      },
+      {
+        "book": "Psalms",
+        "chapter": 13
+      },
+      {
+        "book": "Psalms",
+        "chapter": 14
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "date": "2026-08-22",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 15
+      },
+      {
+        "book": "Psalms",
+        "chapter": 16
+      },
+      {
+        "book": "Psalms",
+        "chapter": 17
+      },
+      {
+        "book": "Psalms",
+        "chapter": 18
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "date": "2026-08-24",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 19
+      },
+      {
+        "book": "Psalms",
+        "chapter": 20
+      },
+      {
+        "book": "Psalms",
+        "chapter": 21
+      },
+      {
+        "book": "Psalms",
+        "chapter": 22
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "date": "2026-08-25",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 23
+      },
+      {
+        "book": "Psalms",
+        "chapter": 24
+      },
+      {
+        "book": "Psalms",
+        "chapter": 25
+      },
+      {
+        "book": "Psalms",
+        "chapter": 26
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "date": "2026-08-26",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 27
+      },
+      {
+        "book": "Psalms",
+        "chapter": 28
+      },
+      {
+        "book": "Psalms",
+        "chapter": 29
+      },
+      {
+        "book": "Psalms",
+        "chapter": 30
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "date": "2026-08-27",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 31
+      },
+      {
+        "book": "Psalms",
+        "chapter": 32
+      },
+      {
+        "book": "Psalms",
+        "chapter": 33
+      },
+      {
+        "book": "Psalms",
+        "chapter": 34
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "date": "2026-08-28",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 35
+      },
+      {
+        "book": "Psalms",
+        "chapter": 36
+      },
+      {
+        "book": "Psalms",
+        "chapter": 37
+      },
+      {
+        "book": "Psalms",
+        "chapter": 38
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "date": "2026-08-29",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 39
+      },
+      {
+        "book": "Psalms",
+        "chapter": 40
+      },
+      {
+        "book": "Psalms",
+        "chapter": 41
+      },
+      {
+        "book": "Psalms",
+        "chapter": 42
+      }
+    ]
+  },
+  {
+    "day": 131,
+    "date": "2026-08-31",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 43
+      },
+      {
+        "book": "Psalms",
+        "chapter": 44
+      },
+      {
+        "book": "Psalms",
+        "chapter": 45
+      },
+      {
+        "book": "Psalms",
+        "chapter": 46
+      }
+    ]
+  },
+  {
+    "day": 132,
+    "date": "2026-09-01",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 47
+      },
+      {
+        "book": "Psalms",
+        "chapter": 48
+      },
+      {
+        "book": "Psalms",
+        "chapter": 49
+      },
+      {
+        "book": "Psalms",
+        "chapter": 50
+      }
+    ]
+  },
+  {
+    "day": 133,
+    "date": "2026-09-02",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 51
+      },
+      {
+        "book": "Psalms",
+        "chapter": 52
+      },
+      {
+        "book": "Psalms",
+        "chapter": 53
+      },
+      {
+        "book": "Psalms",
+        "chapter": 54
+      }
+    ]
+  },
+  {
+    "day": 134,
+    "date": "2026-09-03",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 55
+      },
+      {
+        "book": "Psalms",
+        "chapter": 56
+      },
+      {
+        "book": "Psalms",
+        "chapter": 57
+      },
+      {
+        "book": "Psalms",
+        "chapter": 58
+      }
+    ]
+  },
+  {
+    "day": 135,
+    "date": "2026-09-04",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 59
+      },
+      {
+        "book": "Psalms",
+        "chapter": 60
+      },
+      {
+        "book": "Psalms",
+        "chapter": 61
+      },
+      {
+        "book": "Psalms",
+        "chapter": 62
+      }
+    ]
+  },
+  {
+    "day": 136,
+    "date": "2026-09-05",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 63
+      },
+      {
+        "book": "Psalms",
+        "chapter": 64
+      },
+      {
+        "book": "Psalms",
+        "chapter": 65
+      },
+      {
+        "book": "Psalms",
+        "chapter": 66
+      }
+    ]
+  },
+  {
+    "day": 137,
+    "date": "2026-09-07",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 67
+      },
+      {
+        "book": "Psalms",
+        "chapter": 68
+      },
+      {
+        "book": "Psalms",
+        "chapter": 69
+      },
+      {
+        "book": "Psalms",
+        "chapter": 70
+      }
+    ]
+  },
+  {
+    "day": 138,
+    "date": "2026-09-08",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 71
+      },
+      {
+        "book": "Psalms",
+        "chapter": 72
+      },
+      {
+        "book": "Psalms",
+        "chapter": 73
+      },
+      {
+        "book": "Psalms",
+        "chapter": 74
+      }
+    ]
+  },
+  {
+    "day": 139,
+    "date": "2026-09-09",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 75
+      },
+      {
+        "book": "Psalms",
+        "chapter": 76
+      },
+      {
+        "book": "Psalms",
+        "chapter": 77
+      },
+      {
+        "book": "Psalms",
+        "chapter": 78
+      }
+    ]
+  },
+  {
+    "day": 140,
+    "date": "2026-09-10",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 79
+      },
+      {
+        "book": "Psalms",
+        "chapter": 80
+      },
+      {
+        "book": "Psalms",
+        "chapter": 81
+      },
+      {
+        "book": "Psalms",
+        "chapter": 82
+      }
+    ]
+  },
+  {
+    "day": 141,
+    "date": "2026-09-11",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 83
+      },
+      {
+        "book": "Psalms",
+        "chapter": 84
+      },
+      {
+        "book": "Psalms",
+        "chapter": 85
+      },
+      {
+        "book": "Psalms",
+        "chapter": 86
+      }
+    ]
+  },
+  {
+    "day": 142,
+    "date": "2026-09-12",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 87
+      },
+      {
+        "book": "Psalms",
+        "chapter": 88
+      },
+      {
+        "book": "Psalms",
+        "chapter": 89
+      },
+      {
+        "book": "Psalms",
+        "chapter": 90
+      }
+    ]
+  },
+  {
+    "day": 143,
+    "date": "2026-09-14",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 91
+      },
+      {
+        "book": "Psalms",
+        "chapter": 92
+      },
+      {
+        "book": "Psalms",
+        "chapter": 93
+      },
+      {
+        "book": "Psalms",
+        "chapter": 94
+      }
+    ]
+  },
+  {
+    "day": 144,
+    "date": "2026-09-15",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 95
+      },
+      {
+        "book": "Psalms",
+        "chapter": 96
+      },
+      {
+        "book": "Psalms",
+        "chapter": 97
+      },
+      {
+        "book": "Psalms",
+        "chapter": 98
+      }
+    ]
+  },
+  {
+    "day": 145,
+    "date": "2026-09-16",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 99
+      },
+      {
+        "book": "Psalms",
+        "chapter": 100
+      },
+      {
+        "book": "Psalms",
+        "chapter": 101
+      },
+      {
+        "book": "Psalms",
+        "chapter": 102
+      }
+    ]
+  },
+  {
+    "day": 146,
+    "date": "2026-09-17",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 103
+      },
+      {
+        "book": "Psalms",
+        "chapter": 104
+      },
+      {
+        "book": "Psalms",
+        "chapter": 105
+      },
+      {
+        "book": "Psalms",
+        "chapter": 106
+      }
+    ]
+  },
+  {
+    "day": 147,
+    "date": "2026-09-18",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 107
+      },
+      {
+        "book": "Psalms",
+        "chapter": 108
+      },
+      {
+        "book": "Psalms",
+        "chapter": 109
+      },
+      {
+        "book": "Psalms",
+        "chapter": 110
+      }
+    ]
+  },
+  {
+    "day": 148,
+    "date": "2026-09-19",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 111
+      },
+      {
+        "book": "Psalms",
+        "chapter": 112
+      },
+      {
+        "book": "Psalms",
+        "chapter": 113
+      },
+      {
+        "book": "Psalms",
+        "chapter": 114
+      }
+    ]
+  },
+  {
+    "day": 149,
+    "date": "2026-09-21",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 115
+      },
+      {
+        "book": "Psalms",
+        "chapter": 116
+      },
+      {
+        "book": "Psalms",
+        "chapter": 117
+      },
+      {
+        "book": "Psalms",
+        "chapter": 118
+      }
+    ]
+  },
+  {
+    "day": 150,
+    "date": "2026-09-22",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 119
+      },
+      {
+        "book": "Psalms",
+        "chapter": 120
+      },
+      {
+        "book": "Psalms",
+        "chapter": 121
+      },
+      {
+        "book": "Psalms",
+        "chapter": 122
+      }
+    ]
+  },
+  {
+    "day": 151,
+    "date": "2026-09-23",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 123
+      },
+      {
+        "book": "Psalms",
+        "chapter": 124
+      },
+      {
+        "book": "Psalms",
+        "chapter": 125
+      },
+      {
+        "book": "Psalms",
+        "chapter": 126
+      }
+    ]
+  },
+  {
+    "day": 152,
+    "date": "2026-09-24",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 127
+      },
+      {
+        "book": "Psalms",
+        "chapter": 128
+      },
+      {
+        "book": "Psalms",
+        "chapter": 129
+      },
+      {
+        "book": "Psalms",
+        "chapter": 130
+      }
+    ]
+  },
+  {
+    "day": 153,
+    "date": "2026-09-25",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 131
+      },
+      {
+        "book": "Psalms",
+        "chapter": 132
+      },
+      {
+        "book": "Psalms",
+        "chapter": 133
+      },
+      {
+        "book": "Psalms",
+        "chapter": 134
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "date": "2026-09-26",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 135
+      },
+      {
+        "book": "Psalms",
+        "chapter": 136
+      },
+      {
+        "book": "Psalms",
+        "chapter": 137
+      },
+      {
+        "book": "Psalms",
+        "chapter": 138
+      }
+    ]
+  },
+  {
+    "day": 155,
+    "date": "2026-09-28",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 139
+      },
+      {
+        "book": "Psalms",
+        "chapter": 140
+      },
+      {
+        "book": "Psalms",
+        "chapter": 141
+      },
+      {
+        "book": "Psalms",
+        "chapter": 142
+      }
+    ]
+  },
+  {
+    "day": 156,
+    "date": "2026-09-29",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 143
+      },
+      {
+        "book": "Psalms",
+        "chapter": 144
+      },
+      {
+        "book": "Psalms",
+        "chapter": 145
+      },
+      {
+        "book": "Psalms",
+        "chapter": 146
+      }
+    ]
+  },
+  {
+    "day": 157,
+    "date": "2026-09-30",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Psalms",
+        "chapter": 147
+      },
+      {
+        "book": "Psalms",
+        "chapter": 148
+      },
+      {
+        "book": "Psalms",
+        "chapter": 149
+      },
+      {
+        "book": "Psalms",
+        "chapter": 150
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "date": "2026-10-01",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Proverbs",
+        "chapter": 1
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 2
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 3
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 159,
+    "date": "2026-10-02",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Proverbs",
+        "chapter": 5
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 6
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 7
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 8
+      }
+    ]
+  },
+  {
+    "day": 160,
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Proverbs",
+        "chapter": 9
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 10
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 11
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 12
+      }
+    ]
+  },
+  {
+    "day": 161,
+    "date": "2026-10-05",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Proverbs",
+        "chapter": 13
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 14
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 15
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 16
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "date": "2026-10-06",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Proverbs",
+        "chapter": 17
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 18
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 19
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 20
+      }
+    ]
+  },
+  {
+    "day": 163,
+    "date": "2026-10-07",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Proverbs",
+        "chapter": 21
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 22
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 23
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 24
+      }
+    ]
+  },
+  {
+    "day": 164,
+    "date": "2026-10-08",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Proverbs",
+        "chapter": 25
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 26
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 27
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 28
+      }
+    ]
+  },
+  {
+    "day": 165,
+    "date": "2026-10-09",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Proverbs",
+        "chapter": 29
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 30
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 31
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Ecclesiastes",
+        "chapter": 2
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 3
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 4
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 167,
+    "date": "2026-10-12",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Ecclesiastes",
+        "chapter": 6
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 7
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 8
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 168,
+    "date": "2026-10-13",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Ecclesiastes",
+        "chapter": 10
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 11
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 12
+      },
+      {
+        "book": "Song of Solomon",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 169,
+    "date": "2026-10-14",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Song of Solomon",
+        "chapter": 2
+      },
+      {
+        "book": "Song of Solomon",
+        "chapter": 3
+      },
+      {
+        "book": "Song of Solomon",
+        "chapter": 4
+      },
+      {
+        "book": "Song of Solomon",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "date": "2026-10-15",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Song of Solomon",
+        "chapter": 6
+      },
+      {
+        "book": "Song of Solomon",
+        "chapter": 7
+      },
+      {
+        "book": "Song of Solomon",
+        "chapter": 8
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 171,
+    "date": "2026-10-16",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 2
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 3
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 4
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 172,
+    "date": "2026-10-17",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 6
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 7
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 8
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 173,
+    "date": "2026-10-19",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 10
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 11
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 12
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 13
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "date": "2026-10-20",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 14
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 15
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 16
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 17
+      }
+    ]
+  },
+  {
+    "day": 175,
+    "date": "2026-10-21",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 18
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 19
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 20
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 21
+      }
+    ]
+  },
+  {
+    "day": 176,
+    "date": "2026-10-22",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 22
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 23
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 24
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 25
+      }
+    ]
+  },
+  {
+    "day": 177,
+    "date": "2026-10-23",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 26
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 27
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 28
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 29
+      }
+    ]
+  },
+  {
+    "day": 178,
+    "date": "2026-10-24",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 30
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 31
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 32
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 33
+      }
+    ]
+  },
+  {
+    "day": 179,
+    "date": "2026-10-26",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 34
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 35
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 36
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 37
+      }
+    ]
+  },
+  {
+    "day": 180,
+    "date": "2026-10-27",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 38
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 39
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 40
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 41
+      }
+    ]
+  },
+  {
+    "day": 181,
+    "date": "2026-10-28",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 42
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 43
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 44
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 45
+      }
+    ]
+  },
+  {
+    "day": 182,
+    "date": "2026-10-29",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 46
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 47
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 48
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 49
+      }
+    ]
+  },
+  {
+    "day": 183,
+    "date": "2026-10-30",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 50
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 51
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 52
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 53
+      }
+    ]
+  },
+  {
+    "day": 184,
+    "date": "2026-10-31",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 54
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 55
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 56
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 57
+      }
+    ]
+  },
+  {
+    "day": 185,
+    "date": "2026-11-02",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 58
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 59
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 60
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 61
+      }
+    ]
+  },
+  {
+    "day": 186,
+    "date": "2026-11-03",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 62
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 63
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 64
+      },
+      {
+        "book": "Isaiah",
+        "chapter": 65
+      }
+    ]
+  },
+  {
+    "day": 187,
+    "date": "2026-11-04",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Isaiah",
+        "chapter": 66
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 1
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 2
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 188,
+    "date": "2026-11-05",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 4
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 5
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 6
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "date": "2026-11-06",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 8
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 9
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 10
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "date": "2026-11-07",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 12
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 13
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 14
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 15
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "date": "2026-11-09",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 16
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 17
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 18
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 19
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "date": "2026-11-10",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 20
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 21
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 22
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 23
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "date": "2026-11-11",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 24
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 25
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 26
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 27
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "date": "2026-11-12",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 28
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 29
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 30
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 31
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "date": "2026-11-13",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 32
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 33
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 34
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 35
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "date": "2026-11-14",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 36
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 37
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 38
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 39
+      }
+    ]
+  },
+  {
+    "day": 197,
+    "date": "2026-11-16",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 40
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 41
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 42
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 43
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "date": "2026-11-17",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 44
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 45
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 46
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 47
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "date": "2026-11-18",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 48
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 49
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 50
+      },
+      {
+        "book": "Jeremiah",
+        "chapter": 51
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "date": "2026-11-19",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Jeremiah",
+        "chapter": 52
+      },
+      {
+        "book": "Lamentations",
+        "chapter": 1
+      },
+      {
+        "book": "Lamentations",
+        "chapter": 2
+      },
+      {
+        "book": "Lamentations",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "date": "2026-11-20",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Lamentations",
+        "chapter": 4
+      },
+      {
+        "book": "Lamentations",
+        "chapter": 5
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 1
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "date": "2026-11-21",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 3
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 4
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 5
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "date": "2026-11-23",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 7
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 8
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 9
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 204,
+    "date": "2026-11-24",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 11
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 12
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 13
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 14
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "date": "2026-11-25",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 15
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 16
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 17
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 18
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "date": "2026-11-26",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 19
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 20
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 21
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 22
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "date": "2026-11-27",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 23
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 24
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 25
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 26
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "date": "2026-11-28",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 27
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 28
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 29
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 30
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "date": "2026-11-30",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 31
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 32
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 33
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 34
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "date": "2026-12-01",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 35
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 36
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 37
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 38
+      }
+    ]
+  },
+  {
+    "day": 211,
+    "date": "2026-12-02",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 39
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 40
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 41
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 42
+      }
+    ]
+  },
+  {
+    "day": 212,
+    "date": "2026-12-03",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 43
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 44
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 45
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 46
+      }
+    ]
+  },
+  {
+    "day": 213,
+    "date": "2026-12-04",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Ezekiel",
+        "chapter": 47
+      },
+      {
+        "book": "Ezekiel",
+        "chapter": 48
+      },
+      {
+        "book": "Daniel",
+        "chapter": 1
+      },
+      {
+        "book": "Daniel",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "date": "2026-12-05",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Daniel",
+        "chapter": 3
+      },
+      {
+        "book": "Daniel",
+        "chapter": 4
+      },
+      {
+        "book": "Daniel",
+        "chapter": 5
+      },
+      {
+        "book": "Daniel",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 215,
+    "date": "2026-12-07",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Daniel",
+        "chapter": 7
+      },
+      {
+        "book": "Daniel",
+        "chapter": 8
+      },
+      {
+        "book": "Daniel",
+        "chapter": 9
+      },
+      {
+        "book": "Daniel",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 216,
+    "date": "2026-12-08",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Daniel",
+        "chapter": 11
+      },
+      {
+        "book": "Daniel",
+        "chapter": 12
+      },
+      {
+        "book": "Hosea",
+        "chapter": 1
+      },
+      {
+        "book": "Hosea",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 217,
+    "date": "2026-12-09",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Hosea",
+        "chapter": 3
+      },
+      {
+        "book": "Hosea",
+        "chapter": 4
+      },
+      {
+        "book": "Hosea",
+        "chapter": 5
+      },
+      {
+        "book": "Hosea",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "date": "2026-12-10",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Hosea",
+        "chapter": 7
+      },
+      {
+        "book": "Hosea",
+        "chapter": 8
+      },
+      {
+        "book": "Hosea",
+        "chapter": 9
+      },
+      {
+        "book": "Hosea",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 219,
+    "date": "2026-12-11",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Hosea",
+        "chapter": 11
+      },
+      {
+        "book": "Hosea",
+        "chapter": 12
+      },
+      {
+        "book": "Hosea",
+        "chapter": 13
+      },
+      {
+        "book": "Hosea",
+        "chapter": 14
+      }
+    ]
+  },
+  {
+    "day": 220,
+    "date": "2026-12-12",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Joel",
+        "chapter": 1
+      },
+      {
+        "book": "Joel",
+        "chapter": 2
+      },
+      {
+        "book": "Joel",
+        "chapter": 3
+      },
+      {
+        "book": "Amos",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 221,
+    "date": "2026-12-14",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Amos",
+        "chapter": 2
+      },
+      {
+        "book": "Amos",
+        "chapter": 3
+      },
+      {
+        "book": "Amos",
+        "chapter": 4
+      },
+      {
+        "book": "Amos",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "date": "2026-12-15",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Amos",
+        "chapter": 6
+      },
+      {
+        "book": "Amos",
+        "chapter": 7
+      },
+      {
+        "book": "Amos",
+        "chapter": 8
+      },
+      {
+        "book": "Amos",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 223,
+    "date": "2026-12-16",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Obadiah",
+        "chapter": 1
+      },
+      {
+        "book": "Jonah",
+        "chapter": 1
+      },
+      {
+        "book": "Jonah",
+        "chapter": 2
+      },
+      {
+        "book": "Jonah",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 224,
+    "date": "2026-12-17",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Jonah",
+        "chapter": 4
+      },
+      {
+        "book": "Micah",
+        "chapter": 1
+      },
+      {
+        "book": "Micah",
+        "chapter": 2
+      },
+      {
+        "book": "Micah",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 225,
+    "date": "2026-12-18",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Micah",
+        "chapter": 4
+      },
+      {
+        "book": "Micah",
+        "chapter": 5
+      },
+      {
+        "book": "Micah",
+        "chapter": 6
+      },
+      {
+        "book": "Micah",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 226,
+    "date": "2026-12-19",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Nahum",
+        "chapter": 1
+      },
+      {
+        "book": "Nahum",
+        "chapter": 2
+      },
+      {
+        "book": "Nahum",
+        "chapter": 3
+      },
+      {
+        "book": "Habakkuk",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 227,
+    "date": "2026-12-21",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Habakkuk",
+        "chapter": 2
+      },
+      {
+        "book": "Habakkuk",
+        "chapter": 3
+      },
+      {
+        "book": "Zephaniah",
+        "chapter": 1
+      },
+      {
+        "book": "Zephaniah",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 228,
+    "date": "2026-12-22",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Zephaniah",
+        "chapter": 3
+      },
+      {
+        "book": "Haggai",
+        "chapter": 1
+      },
+      {
+        "book": "Haggai",
+        "chapter": 2
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 229,
+    "date": "2026-12-23",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Zechariah",
+        "chapter": 2
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 3
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 4
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 230,
+    "date": "2026-12-24",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Zechariah",
+        "chapter": 6
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 7
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 8
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 231,
+    "date": "2026-12-25",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Zechariah",
+        "chapter": 10
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 11
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 12
+      },
+      {
+        "book": "Zechariah",
+        "chapter": 13
+      }
+    ]
+  },
+  {
+    "day": 232,
+    "date": "2026-12-26",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Zechariah",
+        "chapter": 14
+      },
+      {
+        "book": "Malachi",
+        "chapter": 1
+      },
+      {
+        "book": "Malachi",
+        "chapter": 2
+      },
+      {
+        "book": "Malachi",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 233,
+    "date": "2026-12-28",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Malachi",
+        "chapter": 4
+      },
+      {
+        "book": "Matthew",
+        "chapter": 1
+      },
+      {
+        "book": "Matthew",
+        "chapter": 2
+      },
+      {
+        "book": "Matthew",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 234,
+    "date": "2026-12-29",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Matthew",
+        "chapter": 4
+      },
+      {
+        "book": "Matthew",
+        "chapter": 5
+      },
+      {
+        "book": "Matthew",
+        "chapter": 6
+      },
+      {
+        "book": "Matthew",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 235,
+    "date": "2026-12-30",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Matthew",
+        "chapter": 8
+      },
+      {
+        "book": "Matthew",
+        "chapter": 9
+      },
+      {
+        "book": "Matthew",
+        "chapter": 10
+      },
+      {
+        "book": "Matthew",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 236,
+    "date": "2026-12-31",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Matthew",
+        "chapter": 12
+      },
+      {
+        "book": "Matthew",
+        "chapter": 13
+      },
+      {
+        "book": "Matthew",
+        "chapter": 14
+      },
+      {
+        "book": "Matthew",
+        "chapter": 15
+      }
+    ]
+  },
+  {
+    "day": 237,
+    "date": "2027-01-01",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Matthew",
+        "chapter": 16
+      },
+      {
+        "book": "Matthew",
+        "chapter": 17
+      },
+      {
+        "book": "Matthew",
+        "chapter": 18
+      },
+      {
+        "book": "Matthew",
+        "chapter": 19
+      }
+    ]
+  },
+  {
+    "day": 238,
+    "date": "2027-01-02",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Matthew",
+        "chapter": 20
+      },
+      {
+        "book": "Matthew",
+        "chapter": 21
+      },
+      {
+        "book": "Matthew",
+        "chapter": 22
+      },
+      {
+        "book": "Matthew",
+        "chapter": 23
+      }
+    ]
+  },
+  {
+    "day": 239,
+    "date": "2027-01-04",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Matthew",
+        "chapter": 24
+      },
+      {
+        "book": "Matthew",
+        "chapter": 25
+      },
+      {
+        "book": "Matthew",
+        "chapter": 26
+      },
+      {
+        "book": "Matthew",
+        "chapter": 27
+      }
+    ]
+  },
+  {
+    "day": 240,
+    "date": "2027-01-05",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Matthew",
+        "chapter": 28
+      },
+      {
+        "book": "Mark",
+        "chapter": 1
+      },
+      {
+        "book": "Mark",
+        "chapter": 2
+      },
+      {
+        "book": "Mark",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 241,
+    "date": "2027-01-06",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Mark",
+        "chapter": 4
+      },
+      {
+        "book": "Mark",
+        "chapter": 5
+      },
+      {
+        "book": "Mark",
+        "chapter": 6
+      },
+      {
+        "book": "Mark",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 242,
+    "date": "2027-01-07",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Mark",
+        "chapter": 8
+      },
+      {
+        "book": "Mark",
+        "chapter": 9
+      },
+      {
+        "book": "Mark",
+        "chapter": 10
+      },
+      {
+        "book": "Mark",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 243,
+    "date": "2027-01-08",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Mark",
+        "chapter": 12
+      },
+      {
+        "book": "Mark",
+        "chapter": 13
+      },
+      {
+        "book": "Mark",
+        "chapter": 14
+      },
+      {
+        "book": "Mark",
+        "chapter": 15
+      }
+    ]
+  },
+  {
+    "day": 244,
+    "date": "2027-01-09",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Mark",
+        "chapter": 16
+      },
+      {
+        "book": "Luke",
+        "chapter": 1
+      },
+      {
+        "book": "Luke",
+        "chapter": 2
+      },
+      {
+        "book": "Luke",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 245,
+    "date": "2027-01-11",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Luke",
+        "chapter": 4
+      },
+      {
+        "book": "Luke",
+        "chapter": 5
+      },
+      {
+        "book": "Luke",
+        "chapter": 6
+      },
+      {
+        "book": "Luke",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 246,
+    "date": "2027-01-12",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Luke",
+        "chapter": 8
+      },
+      {
+        "book": "Luke",
+        "chapter": 9
+      },
+      {
+        "book": "Luke",
+        "chapter": 10
+      },
+      {
+        "book": "Luke",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 247,
+    "date": "2027-01-13",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Luke",
+        "chapter": 12
+      },
+      {
+        "book": "Luke",
+        "chapter": 13
+      },
+      {
+        "book": "Luke",
+        "chapter": 14
+      },
+      {
+        "book": "Luke",
+        "chapter": 15
+      }
+    ]
+  },
+  {
+    "day": 248,
+    "date": "2027-01-14",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Luke",
+        "chapter": 16
+      },
+      {
+        "book": "Luke",
+        "chapter": 17
+      },
+      {
+        "book": "Luke",
+        "chapter": 18
+      },
+      {
+        "book": "Luke",
+        "chapter": 19
+      }
+    ]
+  },
+  {
+    "day": 249,
+    "date": "2027-01-15",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Luke",
+        "chapter": 20
+      },
+      {
+        "book": "Luke",
+        "chapter": 21
+      },
+      {
+        "book": "Luke",
+        "chapter": 22
+      },
+      {
+        "book": "Luke",
+        "chapter": 23
+      }
+    ]
+  },
+  {
+    "day": 250,
+    "date": "2027-01-16",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Luke",
+        "chapter": 24
+      },
+      {
+        "book": "John",
+        "chapter": 1
+      },
+      {
+        "book": "John",
+        "chapter": 2
+      },
+      {
+        "book": "John",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 251,
+    "date": "2027-01-18",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "John",
+        "chapter": 4
+      },
+      {
+        "book": "John",
+        "chapter": 5
+      },
+      {
+        "book": "John",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 252,
+    "date": "2027-01-19",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "John",
+        "chapter": 7
+      },
+      {
+        "book": "John",
+        "chapter": 8
+      },
+      {
+        "book": "John",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 253,
+    "date": "2027-01-20",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "John",
+        "chapter": 10
+      },
+      {
+        "book": "John",
+        "chapter": 11
+      },
+      {
+        "book": "John",
+        "chapter": 12
+      }
+    ]
+  },
+  {
+    "day": 254,
+    "date": "2027-01-21",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "John",
+        "chapter": 13
+      },
+      {
+        "book": "John",
+        "chapter": 14
+      },
+      {
+        "book": "John",
+        "chapter": 15
+      }
+    ]
+  },
+  {
+    "day": 255,
+    "date": "2027-01-22",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "John",
+        "chapter": 16
+      },
+      {
+        "book": "John",
+        "chapter": 17
+      },
+      {
+        "book": "John",
+        "chapter": 18
+      }
+    ]
+  },
+  {
+    "day": 256,
+    "date": "2027-01-23",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "John",
+        "chapter": 19
+      },
+      {
+        "book": "John",
+        "chapter": 20
+      },
+      {
+        "book": "John",
+        "chapter": 21
+      }
+    ]
+  },
+  {
+    "day": 257,
+    "date": "2027-01-25",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 1
+      },
+      {
+        "book": "Acts",
+        "chapter": 2
+      },
+      {
+        "book": "Acts",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 258,
+    "date": "2027-01-26",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 4
+      },
+      {
+        "book": "Acts",
+        "chapter": 5
+      },
+      {
+        "book": "Acts",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 259,
+    "date": "2027-01-27",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 7
+      },
+      {
+        "book": "Acts",
+        "chapter": 8
+      },
+      {
+        "book": "Acts",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 260,
+    "date": "2027-01-28",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 10
+      },
+      {
+        "book": "Acts",
+        "chapter": 11
+      },
+      {
+        "book": "Acts",
+        "chapter": 12
+      }
+    ]
+  },
+  {
+    "day": 261,
+    "date": "2027-01-29",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 13
+      },
+      {
+        "book": "Acts",
+        "chapter": 14
+      },
+      {
+        "book": "Acts",
+        "chapter": 15
+      }
+    ]
+  },
+  {
+    "day": 262,
+    "date": "2027-01-30",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 16
+      },
+      {
+        "book": "Acts",
+        "chapter": 17
+      },
+      {
+        "book": "Acts",
+        "chapter": 18
+      }
+    ]
+  },
+  {
+    "day": 263,
+    "date": "2027-02-01",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 19
+      },
+      {
+        "book": "Acts",
+        "chapter": 20
+      },
+      {
+        "book": "Acts",
+        "chapter": 21
+      }
+    ]
+  },
+  {
+    "day": 264,
+    "date": "2027-02-02",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 22
+      },
+      {
+        "book": "Acts",
+        "chapter": 23
+      },
+      {
+        "book": "Acts",
+        "chapter": 24
+      }
+    ]
+  },
+  {
+    "day": 265,
+    "date": "2027-02-03",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 25
+      },
+      {
+        "book": "Acts",
+        "chapter": 26
+      },
+      {
+        "book": "Acts",
+        "chapter": 27
+      }
+    ]
+  },
+  {
+    "day": 266,
+    "date": "2027-02-04",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Acts",
+        "chapter": 28
+      },
+      {
+        "book": "Romans",
+        "chapter": 1
+      },
+      {
+        "book": "Romans",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 267,
+    "date": "2027-02-05",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Romans",
+        "chapter": 3
+      },
+      {
+        "book": "Romans",
+        "chapter": 4
+      },
+      {
+        "book": "Romans",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 268,
+    "date": "2027-02-06",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Romans",
+        "chapter": 6
+      },
+      {
+        "book": "Romans",
+        "chapter": 7
+      },
+      {
+        "book": "Romans",
+        "chapter": 8
+      }
+    ]
+  },
+  {
+    "day": 269,
+    "date": "2027-02-08",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Romans",
+        "chapter": 9
+      },
+      {
+        "book": "Romans",
+        "chapter": 10
+      },
+      {
+        "book": "Romans",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 270,
+    "date": "2027-02-09",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Romans",
+        "chapter": 12
+      },
+      {
+        "book": "Romans",
+        "chapter": 13
+      },
+      {
+        "book": "Romans",
+        "chapter": 14
+      }
+    ]
+  },
+  {
+    "day": 271,
+    "date": "2027-02-10",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Romans",
+        "chapter": 15
+      },
+      {
+        "book": "Romans",
+        "chapter": 16
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 272,
+    "date": "2027-02-11",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "1 Corinthians",
+        "chapter": 2
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 3
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 273,
+    "date": "2027-02-12",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "1 Corinthians",
+        "chapter": 5
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 6
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 274,
+    "date": "2027-02-13",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "1 Corinthians",
+        "chapter": 8
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 9
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 275,
+    "date": "2027-02-15",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "1 Corinthians",
+        "chapter": 11
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 12
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 13
+      }
+    ]
+  },
+  {
+    "day": 276,
+    "date": "2027-02-16",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "1 Corinthians",
+        "chapter": 14
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 15
+      },
+      {
+        "book": "1 Corinthians",
+        "chapter": 16
+      }
+    ]
+  },
+  {
+    "day": 277,
+    "date": "2027-02-17",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "2 Corinthians",
+        "chapter": 1
+      },
+      {
+        "book": "2 Corinthians",
+        "chapter": 2
+      },
+      {
+        "book": "2 Corinthians",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 278,
+    "date": "2027-02-18",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "2 Corinthians",
+        "chapter": 4
+      },
+      {
+        "book": "2 Corinthians",
+        "chapter": 5
+      },
+      {
+        "book": "2 Corinthians",
+        "chapter": 6
+      }
+    ]
+  },
+  {
+    "day": 279,
+    "date": "2027-02-19",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "2 Corinthians",
+        "chapter": 7
+      },
+      {
+        "book": "2 Corinthians",
+        "chapter": 8
+      },
+      {
+        "book": "2 Corinthians",
+        "chapter": 9
+      }
+    ]
+  },
+  {
+    "day": 280,
+    "date": "2027-02-20",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "2 Corinthians",
+        "chapter": 10
+      },
+      {
+        "book": "2 Corinthians",
+        "chapter": 11
+      },
+      {
+        "book": "2 Corinthians",
+        "chapter": 12
+      }
+    ]
+  },
+  {
+    "day": 281,
+    "date": "2027-02-22",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "2 Corinthians",
+        "chapter": 13
+      },
+      {
+        "book": "Galatians",
+        "chapter": 1
+      },
+      {
+        "book": "Galatians",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 282,
+    "date": "2027-02-23",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Galatians",
+        "chapter": 3
+      },
+      {
+        "book": "Galatians",
+        "chapter": 4
+      },
+      {
+        "book": "Galatians",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 283,
+    "date": "2027-02-24",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Galatians",
+        "chapter": 6
+      },
+      {
+        "book": "Ephesians",
+        "chapter": 1
+      },
+      {
+        "book": "Ephesians",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 284,
+    "date": "2027-02-25",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Ephesians",
+        "chapter": 3
+      },
+      {
+        "book": "Ephesians",
+        "chapter": 4
+      },
+      {
+        "book": "Ephesians",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 285,
+    "date": "2027-02-26",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Ephesians",
+        "chapter": 6
+      },
+      {
+        "book": "Philippians",
+        "chapter": 1
+      },
+      {
+        "book": "Philippians",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 286,
+    "date": "2027-02-27",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Philippians",
+        "chapter": 3
+      },
+      {
+        "book": "Philippians",
+        "chapter": 4
+      },
+      {
+        "book": "Colossians",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 287,
+    "date": "2027-03-01",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Colossians",
+        "chapter": 2
+      },
+      {
+        "book": "Colossians",
+        "chapter": 3
+      },
+      {
+        "book": "Colossians",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 288,
+    "date": "2027-03-02",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "1 Thessalonians",
+        "chapter": 1
+      },
+      {
+        "book": "1 Thessalonians",
+        "chapter": 2
+      },
+      {
+        "book": "1 Thessalonians",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 289,
+    "date": "2027-03-03",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "1 Thessalonians",
+        "chapter": 4
+      },
+      {
+        "book": "1 Thessalonians",
+        "chapter": 5
+      },
+      {
+        "book": "2 Thessalonians",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 290,
+    "date": "2027-03-04",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "2 Thessalonians",
+        "chapter": 2
+      },
+      {
+        "book": "2 Thessalonians",
+        "chapter": 3
+      },
+      {
+        "book": "1 Timothy",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 291,
+    "date": "2027-03-05",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "1 Timothy",
+        "chapter": 2
+      },
+      {
+        "book": "1 Timothy",
+        "chapter": 3
+      },
+      {
+        "book": "1 Timothy",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 292,
+    "date": "2027-03-06",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "1 Timothy",
+        "chapter": 5
+      },
+      {
+        "book": "1 Timothy",
+        "chapter": 6
+      },
+      {
+        "book": "2 Timothy",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 293,
+    "date": "2027-03-08",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "2 Timothy",
+        "chapter": 2
+      },
+      {
+        "book": "2 Timothy",
+        "chapter": 3
+      },
+      {
+        "book": "2 Timothy",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 294,
+    "date": "2027-03-09",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Titus",
+        "chapter": 1
+      },
+      {
+        "book": "Titus",
+        "chapter": 2
+      },
+      {
+        "book": "Titus",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 295,
+    "date": "2027-03-10",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Philemon",
+        "chapter": 1
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 1
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 296,
+    "date": "2027-03-11",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Hebrews",
+        "chapter": 3
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 4
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 297,
+    "date": "2027-03-12",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Hebrews",
+        "chapter": 6
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 7
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 8
+      }
+    ]
+  },
+  {
+    "day": 298,
+    "date": "2027-03-13",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Hebrews",
+        "chapter": 9
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 10
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 11
+      }
+    ]
+  },
+  {
+    "day": 299,
+    "date": "2027-03-15",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Hebrews",
+        "chapter": 12
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 13
+      },
+      {
+        "book": "James",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 300,
+    "date": "2027-03-16",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "James",
+        "chapter": 2
+      },
+      {
+        "book": "James",
+        "chapter": 3
+      },
+      {
+        "book": "James",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 301,
+    "date": "2027-03-17",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "James",
+        "chapter": 5
+      },
+      {
+        "book": "1 Peter",
+        "chapter": 1
+      },
+      {
+        "book": "1 Peter",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "day": 302,
+    "date": "2027-03-18",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "1 Peter",
+        "chapter": 3
+      },
+      {
+        "book": "1 Peter",
+        "chapter": 4
+      },
+      {
+        "book": "1 Peter",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "day": 303,
+    "date": "2027-03-19",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "2 Peter",
+        "chapter": 1
+      },
+      {
+        "book": "2 Peter",
+        "chapter": 2
+      },
+      {
+        "book": "2 Peter",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 304,
+    "date": "2027-03-20",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "1 John",
+        "chapter": 1
+      },
+      {
+        "book": "1 John",
+        "chapter": 2
+      },
+      {
+        "book": "1 John",
+        "chapter": 3
+      }
+    ]
+  },
+  {
+    "day": 305,
+    "date": "2027-03-22",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "1 John",
+        "chapter": 4
+      },
+      {
+        "book": "1 John",
+        "chapter": 5
+      },
+      {
+        "book": "2 John",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 306,
+    "date": "2027-03-23",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "3 John",
+        "chapter": 1
+      },
+      {
+        "book": "Jude",
+        "chapter": 1
+      },
+      {
+        "book": "Revelation",
+        "chapter": 1
+      }
+    ]
+  },
+  {
+    "day": 307,
+    "date": "2027-03-24",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Revelation",
+        "chapter": 2
+      },
+      {
+        "book": "Revelation",
+        "chapter": 3
+      },
+      {
+        "book": "Revelation",
+        "chapter": 4
+      }
+    ]
+  },
+  {
+    "day": 308,
+    "date": "2027-03-25",
+    "weekday": "Thursday",
+    "chapters": [
+      {
+        "book": "Revelation",
+        "chapter": 5
+      },
+      {
+        "book": "Revelation",
+        "chapter": 6
+      },
+      {
+        "book": "Revelation",
+        "chapter": 7
+      }
+    ]
+  },
+  {
+    "day": 309,
+    "date": "2027-03-26",
+    "weekday": "Friday",
+    "chapters": [
+      {
+        "book": "Revelation",
+        "chapter": 8
+      },
+      {
+        "book": "Revelation",
+        "chapter": 9
+      },
+      {
+        "book": "Revelation",
+        "chapter": 10
+      }
+    ]
+  },
+  {
+    "day": 310,
+    "date": "2027-03-27",
+    "weekday": "Saturday",
+    "chapters": [
+      {
+        "book": "Revelation",
+        "chapter": 11
+      },
+      {
+        "book": "Revelation",
+        "chapter": 12
+      },
+      {
+        "book": "Revelation",
+        "chapter": 13
+      }
+    ]
+  },
+  {
+    "day": 311,
+    "date": "2027-03-29",
+    "weekday": "Monday",
+    "chapters": [
+      {
+        "book": "Revelation",
+        "chapter": 14
+      },
+      {
+        "book": "Revelation",
+        "chapter": 15
+      },
+      {
+        "book": "Revelation",
+        "chapter": 16
+      }
+    ]
+  },
+  {
+    "day": 312,
+    "date": "2027-03-30",
+    "weekday": "Tuesday",
+    "chapters": [
+      {
+        "book": "Revelation",
+        "chapter": 17
+      },
+      {
+        "book": "Revelation",
+        "chapter": 18
+      },
+      {
+        "book": "Revelation",
+        "chapter": 19
+      }
+    ]
+  },
+  {
+    "day": 313,
+    "date": "2027-03-31",
+    "weekday": "Wednesday",
+    "chapters": [
+      {
+        "book": "Revelation",
+        "chapter": 20
+      },
+      {
+        "book": "Revelation",
+        "chapter": 21
+      },
+      {
+        "book": "Revelation",
+        "chapter": 22
+      }
+    ]
+  }
+]
