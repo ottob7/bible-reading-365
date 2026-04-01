@@ -220,17 +220,17 @@ export default function LandingPage() {
               className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-white leading-[1.1] tracking-tight mb-6"
               style={{ textShadow: '0 2px 40px rgba(197,165,90,0.15)' }}
             >
-              Read the Word.
+              Reading the Word.
               <br />
-              <span className="text-gold-400">Transform Your Year.</span>
+              <span className="text-gold-400">Together.</span>
             </h1>
           </FadeIn>
 
           {/* Subtext */}
           <FadeIn delay={0.2}>
             <p className="text-navy-300 text-lg md:text-xl max-w-xl mx-auto leading-relaxed mb-10">
-              Join us in reading the entire King James Bible — Genesis to Revelation —
-              in one purposeful year. Together, Monday through Saturday.
+              Join us in reading the entire King James Bible — Genesis to
+              Revelation — Together. You will learn something. Guaranteed.
             </p>
           </FadeIn>
 
