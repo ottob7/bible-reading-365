@@ -129,8 +129,8 @@ export default function CalendarView({ completedDates = [], onToggle, readOnly =
               title={formatChaptersShort(planEntry.chapters)}
             >
               <span className="font-medium">{day}</span>
-              <span className="text-[9px] leading-tight truncate w-full text-center mt-0.5">
-                {formatChaptersShort(planEntry.chapters).split(',')[0]}
+              <span className="text-[9px] leading-tight w-full text-center mt-0.5 line-clamp-2">
+                {formatChaptersShort(planEntry.chapters)}
               </span>
               {isCompleted && <Check className="h-3 w-3 text-green-500 mt-0.5" />}
             </button>
